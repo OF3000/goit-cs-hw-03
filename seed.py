@@ -6,8 +6,8 @@ fake = Faker()
 
 db_config = {
     "dbname": "HW3",
-    "user": "postgres",
-    "password": "0947",
+    "user": "********",
+    "password": "**********",
     "host": "localhost",
 }
 
